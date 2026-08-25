@@ -124,17 +124,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var resourceInfo = {
       'Marinele': {
-        image: 'assets/photos/marinele-2.jpg',
+        image: 'assets/photos/marinele-2.webp',
         text: 'Das eigene Binnenschiff auf Weser und Elbe passt, wenn Alltagsstruktur, gemeinsames Kochen und Selbstorganisation im Vordergrund stehen.',
         anchor: 'konzept.html#marinele'
       },
       'KIM-Mobil': {
-        image: 'assets/photos/kim-mobil-1.jpg',
+        image: 'assets/photos/kim-mobil-1.webp',
         text: 'Das Kriseninterventionsmobil mit getrennten Schlafkabinen ist flexibel und kurzfristig einsetzbar, auch ohne langen Vorlauf.',
         anchor: 'konzept.html#kim-mobil'
       },
       'Potosi': {
-        image: 'assets/photos/potosi-1.jpg',
+        image: 'assets/photos/potosi-1.webp',
         text: 'Das Segelschiff Potosi wird rund viermal im Jahr gechartert und bietet maximale Distanz zum bisherigen Umfeld.',
         anchor: 'konzept.html#potosi'
       }
